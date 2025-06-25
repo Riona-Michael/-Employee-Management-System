@@ -3,7 +3,6 @@ A Python-based Employee Management System with a Tkinter GUI frontend and MySQL 
 
 
 Project Prerequisites
-
 -Python Installed
 
 -Make sure the MySQL server is running.
@@ -13,7 +12,6 @@ Project Prerequisites
 pip install mysql-connector-python
 
 Project Setup Steps
-
 -Run the MYSQL file
 
 -Update Python Code (if needed)
